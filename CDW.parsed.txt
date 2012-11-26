@@ -1,0 +1,41 @@
+Computers	Desktops	Acer Veriton X4610G-UI32100W - Core i3 2100 3.1 GHz - Monitor : none.	$499.99	http://www.cdw.com/shop/products/Acer-Veriton-X4610G-UI32100W-Core-i3-2100-3.1-GHz-Monitor-none/2722621.aspx	cdw.com
+Computers	Desktops	Lenovo ThinkCentre M92p 2121 - Core i5 3470T 2.9 GHz - Monitor : none.	$649.99	http://www.cdw.com/shop/products/Lenovo-ThinkCentre-M92p-2121-Core-i5-3470T-2.9-GHz-Monitor-none/2742632.aspx	cdw.com
+Computers	Desktops	Lenovo ThinkCentre M82 3306 - Core i5 3570 3.4 GHz - Monitor : none.	$645.99	http://www.cdw.com/shop/products/Lenovo-ThinkCentre-M82-3306-Core-i5-3570-3.4-GHz-Monitor-none/2779680.aspx	cdw.com
+Computers	Desktops	Lenovo ThinkCentre M81 7518 - Core i5 2400 3.1 GHz - Monitor : none.	$589.99	http://www.cdw.com/shop/products/Lenovo-ThinkCentre-M81-7518-Core-i5-2400-3.1-GHz-Monitor-none/2628778.aspx	cdw.com
+Computers	Desktops	Lenovo ThinkCentre M92p 2988 - Core i5 3550 3.3 GHz - Monitor : none.	$745.99	http://www.cdw.com/shop/products/Lenovo-ThinkCentre-M92p-2988-Core-i5-3550-3.3-GHz-Monitor-none/2741673.aspx	cdw.com
+Computers	Desktops	Lenovo ThinkCentre M82 3306 - Core i3 3220 3.3 GHz - Monitor : none.	$596.99	http://www.cdw.com/shop/products/Lenovo-ThinkCentre-M82-3306-Core-i3-3220-3.3-GHz-Monitor-none/2805811.aspx	cdw.com
+Computers	Desktops	Lenovo ThinkCentre M72e 0967 - Core i5 3470 3.2 GHz	$619.99	http://www.cdw.com/shop/products/Lenovo-ThinkCentre-M72e-0967-Core-i5-3470-3.2-GHz/2771415.aspx	cdw.com
+Computers	Desktops	Lenovo ThinkCentre Edge 72 3493 - Core i3 3220 3.3 GHz - Monitor : none.	$491.99	http://www.cdw.com/shop/products/Lenovo-ThinkCentre-Edge-72-3493-Core-i3-3220-3.3-GHz-Monitor-none/2805793.aspx	cdw.com
+Computers	Desktops	HP Pro 3500 - Core i3 2120 3.3 GHz - Monitor : none.	$503.99	http://www.cdw.com/shop/products/HP-Pro-3500-Core-i3-2120-3.3-GHz-Monitor-none/2758519.aspx	cdw.com
+Computers	Desktops	HP Compaq Elite 8300 - Core i7 3770 3.4 GHz - Monitor : none.	$937.99	http://www.cdw.com/shop/products/HP-Compaq-Elite-8300-Core-i7-3770-3.4-GHz-Monitor-none/2733028.aspx	cdw.com
+Computers	Desktops	Lenovo ThinkCentre M92p 3209 - Core i5 3550 3.3 GHz - Monitor : none.	$1,122.99	http://www.cdw.com/shop/products/Lenovo-ThinkCentre-M92p-3209-Core-i5-3550-3.3-GHz-Monitor-none/2775102.aspx	cdw.com
+Computers	Desktops	Lenovo ThinkCentre M72e 4004 - Core i3 2120T 2.6 GHz - Monitor : none.	$525.99	http://www.cdw.com/shop/products/Lenovo-ThinkCentre-M72e-4004-Core-i3-2120T-2.6-GHz-Monitor-none/2742627.aspx	cdw.com
+Computers	Desktops	Acer Veriton VX275-UD6600W - P E6600 3.06 GHz	$379.99	http://www.cdw.com/shop/products/Acer-Veriton-VX275-UD6600W-P-E6600-3.06-GHz/2716420.aspx	cdw.com
+Computers	Desktops	HP Pro 3500 - Core i5 3470 3.2 GHz - Monitor : none.	$607.99	http://www.cdw.com/shop/products/HP-Pro-3500-Core-i5-3470-3.2-GHz-Monitor-none/2842157.aspx	cdw.com
+Computers	Desktops	HP Compaq 6300 Pro - Core i5 3470 3.2 GHz - Monitor : none.	$1,119.99	http://www.cdw.com/shop/products/HP-Compaq-6300-Pro-Core-i5-3470-3.2-GHz-Monitor-none/2749277.aspx	cdw.com
+Computers	Desktops	Lenovo ThinkCentre M72e 3660 - Core i3 3220 3.3 GHz - Monitor : none.	$576.99	http://www.cdw.com/shop/products/Lenovo-ThinkCentre-M72e-3660-Core-i3-3220-3.3-GHz-Monitor-none/2805831.aspx	cdw.com
+Computers	Desktops	HP Compaq Elite 8300 - Core i5 3470 3.2 GHz - Monitor : none.	$735.99	http://www.cdw.com/shop/products/HP-Compaq-Elite-8300-Core-i5-3470-3.2-GHz-Monitor-none/2732182.aspx	cdw.com
+Computers	Desktops	HP Compaq 6300 Pro - Core i3 2120 3.3 GHz - Monitor : none.	$624.99	http://www.cdw.com/shop/products/HP-Compaq-6300-Pro-Core-i3-2120-3.3-GHz-Monitor-none/2747850.aspx	cdw.com
+Computers	Desktops	Lenovo ThinkCentre M77 2227 - Phenom II X2 B57 3.2 GHz - Monitor : none.	$436.99	http://www.cdw.com/shop/products/Lenovo-ThinkCentre-M77-2227-Phenom-II-X2-B57-3.2-GHz-Monitor-none/2628799.aspx	cdw.com
+Computers	Desktops	Lenovo ThinkCentre M72z 3548 - Core i3 3220 3.3 GHz - Monitor : LED 20"	$742.99	http://www.cdw.com/shop/products/Lenovo-ThinkCentre-M72z-3548-Core-i3-3220-3.3-GHz-Monitor-LED-20in/2802660.aspx	cdw.com
+Computers	Desktops	Lenovo ThinkCentre M72e 4004 - P G630T 2.3 GHz - Monitor : none.	$449.99	http://www.cdw.com/shop/products/Lenovo-ThinkCentre-M72e-4004-P-G630T-2.3-GHz-Monitor-none/2732757.aspx	cdw.com
+Computers	Desktops	HP 6005P B75 500GB 4GB W7P	$1,049.99	http://www.cdw.com/shop/products/HP-6005P-B75-500GB-4GB-W7P/2777225.aspx	cdw.com
+Computers	Desktops	Acer Veriton M4618G-Ui52321W	$579.99	http://www.cdw.com/shop/products/Acer-Veriton-M4618G-Ui52321W/2684701.aspx	cdw.com
+Computers	Desktops	HP Compaq 6300 Pro - Core i3 2120 3.3 GHz - Monitor : none.	$561.99	http://www.cdw.com/shop/products/HP-Compaq-6300-Pro-Core-i3-2120-3.3-GHz-Monitor-none/2769645.aspx	cdw.com
+Computers	Desktops	Acer Veriton X4610G-UI32100W - Core i3 2100 3.1 GHz - Monitor : none.	$499.99	http://www.cdw.com/shop/products/Acer-Veriton-X4610G-UI32100W-Core-i3-2100-3.1-GHz-Monitor-none/2722621.aspx	cdw.com
+Computers	Desktops	Lenovo ThinkCentre M92p 2121 - Core i5 3470T 2.9 GHz - Monitor : none.	$649.99	http://www.cdw.com/shop/products/Lenovo-ThinkCentre-M92p-2121-Core-i5-3470T-2.9-GHz-Monitor-none/2742632.aspx	cdw.com
+Computers	Desktops	Lenovo ThinkCentre M82 3306 - Core i5 3570 3.4 GHz - Monitor : none.	$645.99	http://www.cdw.com/shop/products/Lenovo-ThinkCentre-M82-3306-Core-i5-3570-3.4-GHz-Monitor-none/2779680.aspx	cdw.com
+Computers	Desktops	Lenovo ThinkCentre M81 7518 - Core i5 2400 3.1 GHz - Monitor : none.	$589.99	http://www.cdw.com/shop/products/Lenovo-ThinkCentre-M81-7518-Core-i5-2400-3.1-GHz-Monitor-none/2628778.aspx	cdw.com
+Computers	Desktops	Lenovo ThinkCentre M92p 2988 - Core i5 3550 3.3 GHz - Monitor : none.	$745.99	http://www.cdw.com/shop/products/Lenovo-ThinkCentre-M92p-2988-Core-i5-3550-3.3-GHz-Monitor-none/2741673.aspx	cdw.com
+Computers	Desktops	Lenovo ThinkCentre M82 3306 - Core i3 3220 3.3 GHz - Monitor : none.	$596.99	http://www.cdw.com/shop/products/Lenovo-ThinkCentre-M82-3306-Core-i3-3220-3.3-GHz-Monitor-none/2805811.aspx	cdw.com
+Computers	Desktops	Lenovo ThinkCentre M72e 0967 - Core i5 3470 3.2 GHz	$619.99	http://www.cdw.com/shop/products/Lenovo-ThinkCentre-M72e-0967-Core-i5-3470-3.2-GHz/2771415.aspx	cdw.com
+Computers	Desktops	Lenovo ThinkCentre Edge 72 3493 - Core i3 3220 3.3 GHz - Monitor : none.	$491.99	http://www.cdw.com/shop/products/Lenovo-ThinkCentre-Edge-72-3493-Core-i3-3220-3.3-GHz-Monitor-none/2805793.aspx	cdw.com
+Computers	Desktops	HP Pro 3500 - Core i3 2120 3.3 GHz - Monitor : none.	$503.99	http://www.cdw.com/shop/products/HP-Pro-3500-Core-i3-2120-3.3-GHz-Monitor-none/2758519.aspx	cdw.com
+Computers	Desktops	HP Compaq Elite 8300 - Core i7 3770 3.4 GHz - Monitor : none.	$937.99	http://www.cdw.com/shop/products/HP-Compaq-Elite-8300-Core-i7-3770-3.4-GHz-Monitor-none/2733028.aspx	cdw.com
+Computers	Desktops	Lenovo ThinkCentre M92p 3209 - Core i5 3550 3.3 GHz - Monitor : none.	$1,122.99	http://www.cdw.com/shop/products/Lenovo-ThinkCentre-M92p-3209-Core-i5-3550-3.3-GHz-Monitor-none/2775102.aspx	cdw.com
+Computers	Desktops	Lenovo ThinkCentre M72e 4004 - Core i3 2120T 2.6 GHz - Monitor : none.	$525.99	http://www.cdw.com/shop/products/Lenovo-ThinkCentre-M72e-4004-Core-i3-2120T-2.6-GHz-Monitor-none/2742627.aspx	cdw.com
+Computers	Desktops	Acer Veriton VX275-UD6600W - P E6600 3.06 GHz	$379.99	http://www.cdw.com/shop/products/Acer-Veriton-VX275-UD6600W-P-E6600-3.06-GHz/2716420.aspx	cdw.com
+Computers	Desktops	HP Pro 3500 - Core i5 3470 3.2 GHz - Monitor : none.	$607.99	http://www.cdw.com/shop/products/HP-Pro-3500-Core-i5-3470-3.2-GHz-Monitor-none/2842157.aspx	cdw.com
+Computers	Desktops	HP Compaq 6300 Pro - Core i5 3470 3.2 GHz - Monitor : none.	$1,119.99	http://www.cdw.com/shop/products/HP-Compaq-6300-Pro-Core-i5-3470-3.2-GHz-Monitor-none/2749277.aspx	cdw.com
+Computers	Desktops	Lenovo ThinkCentre M72e 3660 - Core i3 3220 3.3 GHz - Monitor : none.	$576.99	http://www.cdw.com/shop/products/Lenovo-ThinkCentre-M72e-3660-Core-i3-3220-3.3-GHz-Monitor-none/2805831.aspx	cdw.com
+Computers	Desktops	HP Compaq Elite 8300 - Core i5 3470 3.2 GHz - Monitor : none.	$
