@@ -119,15 +119,23 @@ extractPrice site body = do
   let Just s = priceBlock h
   unwords . words $ extract' site s body
 
+extractImage :: String -> String -> String
+extractImage site body = do 
+  let Just h = hints site
+  let Just s = imageBlock h
+  unwords . words $ extract' site s body
+
 
 
 -- extract the site name from a url http://astr
 siteOfUrl :: String -> String
 siteOfUrl url 
+    | (startswith "https://" url) = extract rest2
     | (startswith "www." rest) = extract restWithoutWWW
     | otherwise = extract rest
     where
       (_,rest) = splitAt 7 url
+      (_,rest2) = splitAt 8 url
       (_,restWithoutWWW) = splitAt 11 url
       extract = \s -> takeWhile (\a -> a /= '/') s
   
@@ -139,6 +147,7 @@ taxonomizeURL url = getURLText url >>= \body -> return (
   [extractId site body] ++  -- detailed product title
   [extractPrice site body] ++ -- the price
   [url] ++ -- the url
+  [extractImage site body] ++ 
   [site])   -- the site
   where
     site = siteOfUrl url
@@ -155,7 +164,7 @@ testURLS :: [String]
 testURLS = [ "http://www.cdw.com/shop/products/HP-Compaq-Pro-6300-Desktop-CDW-Exclusive/2828989.aspx"
            ,"http://www.cdw.com/shop/products/HP-EliteBook-8460p-14in-Core-i5-2450M-Windows-7-Professional-64-bit/2610253.aspx?cm_sp=Hub-_-Session-_-Notebook+Computers&ProgramIdentifier=3&RecommendedForEDC=00000001&RecoType=RU"
            ,"http://www.cdw.com/shop/products/Lenovo-ThinkPad-T430-2342-14in-Core-i5-3320M-Windows-7-Professional-64/2743319.aspx"
-           ,"http://www.target.com/p/sony-vaio-14-laptop-pc-sve14112fxw-with-640gb-hard-drive-4gb-memory-black-white/-/A-14109249#prodSlot=medium_1_2&term=laptops"]
+           ,"http://www.target.com/p/sony-vaio-14-laptop-pc-sve14112fxw-with-640gb-hard-drive-4gb-memory-black-white/-/A-14109249#prodSlot=medium_1_2&term=laptops", "https://sites.google.com/site/cop4331dealaggregator/fake-item"]
 
 --test :: [IO ()]
 test = mapM f testURLS
@@ -214,6 +223,14 @@ main :: IO()
 main = do 
   fh <- openFile "out.txt" WriteMode
   processSTDIN fh 1
+  hClose fh
+
+
+-- main :: IO()
+-- main = do 
+--   tax <- taxonomizeURL "https://sites.google.com/site/cop4331dealaggregator/fake-item"
+--   let taxLine = join "\t" tax
+--   putStrLn taxLine
 
 
 

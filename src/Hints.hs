@@ -34,9 +34,40 @@ hints site = lookup site [
                                               , elementAttribute = Just "itemprop"
                                               , elementAttributeValue = Just "price"
                                               , elementValue = Just "content"
-                                              }
+                                              },
+                                 imageBlock = Nothing
                                }
               ),
+
+              ("sites.google.com",  
+                           Hint 
+                               {
+                                 productsBlock = Nothing,
+                                 productBlock = Just ElementSpec 
+                                                {
+                                                  elementType = Just "h1"
+                                                , elementAttribute = Just "id"
+                                                , elementAttributeValue = Just "id_1___"
+                                                , elementValue = Nothing 
+                                                },
+                                 priceBlock = Just ElementSpec 
+                                              {
+                                                elementType = Just "span"
+                                              , elementAttribute = Just "id"
+                                              , elementAttributeValue = Just "id_3___"
+                                              , elementValue = Nothing
+                                              },
+                                 imageBlock = Just ElementSpec 
+                                                                               {
+                                                elementType = Just "img"
+                                              , elementAttribute = Just "id"
+                                              , elementAttributeValue = Just "id_2___"
+                                              , elementValue = Just "src"
+                                              }
+
+                               }
+              ),
+
 
               ("bestbuy.com",  
                            Hint 
@@ -55,7 +86,8 @@ hints site = lookup site [
                                               , elementAttribute = Just "id"
                                               , elementAttributeValue = Just "item-price"
                                               , elementValue = Nothing
-                                              }
+                                              },
+                                 imageBlock = Nothing
                                }
               ),
 
@@ -78,7 +110,16 @@ hints site = lookup site [
                                               , elementAttribute = Just "id"
                                               , elementAttributeValue = Just "_primaryProductInformation__price_lblAP"
                                               , elementValue = Nothing
+                                              },
+
+                                 imageBlock = Just ElementSpec 
+                                              {
+                                                elementType = Just "img"
+                                              , elementAttribute = Just "id"
+                                              , elementAttributeValue = Just "_productMedia__mainProductImage"
+                                              , elementValue = Just "src"
                                               }
+
                                }
               ),
 
@@ -99,7 +140,17 @@ hints site = lookup site [
                                               , elementAttribute = Just "class"
                                               , elementAttributeValue = Just "offerPrice"
                                               , elementValue = Nothing
+                                              },
+
+                                 imageBlock = Just ElementSpec 
+                                              {
+                                                elementType = Just "img"
+                                              , elementAttribute = Just "id"
+                                              , elementAttributeValue = Just "heroImage"
+                                              , elementValue = Just "src"
                                               }
+
+
                                }
               )
               ]

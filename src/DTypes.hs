@@ -20,7 +20,9 @@ data ElementSpec = ElementSpec {
 data Hint = Hint {
       productsBlock :: Maybe ElementSpec, -- Matches a repeating element that contains products
       productBlock  :: Maybe ElementSpec, -- Matches the string that describes the product
-      priceBlock    :: Maybe ElementSpec -- Matches the price of the product
+      priceBlock    :: Maybe ElementSpec, -- Matches the price of the product
+      imageBlock    :: Maybe ElementSpec -- Matches the price of the product
+
 } deriving (Show)
 
 
